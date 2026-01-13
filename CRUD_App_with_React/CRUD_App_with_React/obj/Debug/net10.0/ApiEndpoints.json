@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CRUD_App_with_React.Controllers.AppUsersController",
+    "Method": "GetAppUsers",
+    "RelativePath": "api/AppUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

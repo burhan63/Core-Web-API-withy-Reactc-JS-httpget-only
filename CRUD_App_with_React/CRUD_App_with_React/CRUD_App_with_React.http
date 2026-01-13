@@ -1,0 +1,6 @@
+@CRUD_App_with_React_HostAddress = http://localhost:5272
+
+GET {{CRUD_App_with_React_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
